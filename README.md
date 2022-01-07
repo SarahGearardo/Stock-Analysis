@@ -7,8 +7,20 @@ The original purpose of this project was to analyze the DQ stock for our friend 
 ### 2017</br>
 In our analysis of 2017 data, we find that all but one of the stocks had positive returns that year. The only stock that under-performed was TERP. The highest rate of return that year was DQ, which is what Steve's parents originally wanted to invest in. The return for DQ that year was 199.4%.
 
+![2017 Return Data](https://user-images.githubusercontent.com/94804527/148479346-656529a5-956f-4628-8177-eba9db32f1e8.png)
 
+The runtime of the original 2017 report was .86 seconds:
 
+![2017 Run Time - Not Refracted](https://user-images.githubusercontent.com/94804527/148479396-f1d85d61-2c71-4f05-a9d8-6b8776536fb9.png)
+
+### 2018</br>
+In our analysis of the 2018 data, we find that most of the stocks had negative return rates, except for two. ENPH had a return of 81.9% and RUN had a return of 84.0%. When comparing the two stocks, ENPH seems like the safest bet as they both had positive return rates in both 2017 and 2018.
+
+![2018 Return Data](https://user-images.githubusercontent.com/94804527/148482449-ba73d98a-645d-49f3-bc25-bcff1dcb0391.png)
+
+The runtime of the original 2018 report was .22 seconds.
+
+![2018 Run Time - Not Refracted](https://user-images.githubusercontent.com/94804527/148482509-9b49ca31-ddf9-4871-a571-b069637caf76.png)
 
 ## Summary</br>
 ### Advantages and Disadvantages in Refractoring</br>
