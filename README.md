@@ -5,7 +5,9 @@ The original purpose of this project was to analyze the DQ stock for our friend 
 
 ## Results</br>
 ### 2017</br>
-In our analysis of 2017 data, we find that the 
+In our analysis of 2017 data, we find that all but one of the stocks had positive returns that year. The only stock that under-performed was TERP. The highest rate of return that year was DQ, which is what Steve's parents originally wanted to invest in. The return for DQ that year was 199.4%.
+
+
 
 
 ## Summary</br>
