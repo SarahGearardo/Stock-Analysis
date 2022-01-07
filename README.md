@@ -8,3 +8,8 @@ The original purpose of this project was to analyze the DQ stock for our friend 
 In our analysis of 2017 data, we find that the 
 
 
+## Summary</br>
+### Advantages and Disadvantages in Refractoring</br>
+I believe the advantages of refractoring are easy to sell, which is that refratoring your code can help it run faster. This might be useful if you are working with a lot of data at once and I can see how it could easily shave minutes off of the time it takes to run your script to get the data you need. I think with this dataset we were given, though, the time we saved was mere seconds and it took a lot of trial and error to get this to run. Another advantage as well as disadvantage to refratoring your own code is that you are familiar with it, so sometimes the changes you need to make aren't always going to be obvious to you if you have been working on it for a long time, however, the same can be said for knowing your own code inside and out. If I was to refractor someone elses code without building it myself first, I can see how it could take longer because I would need to get familiar with how they "speak".</br>
+
+### Advantages and Disadvantages on the Refractored VBA Script</br>
